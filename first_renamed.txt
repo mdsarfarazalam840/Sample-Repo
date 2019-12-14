@@ -1,0 +1,6 @@
+this is version 1
+i want this to go into commit 2 master
+changed to vicky
+this is changed nowwdaas
+this is from master
+this is added at bugfix branch
